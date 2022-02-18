@@ -13,6 +13,7 @@
 		38E1016C27BD4B030008D25D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38E1016A27BD4B030008D25D /* Main.storyboard */; };
 		38E1016E27BD4B040008D25D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38E1016D27BD4B040008D25D /* Assets.xcassets */; };
 		38E1017127BD4B040008D25D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38E1016F27BD4B040008D25D /* LaunchScreen.storyboard */; };
+		38E1017A27BD4EE60008D25D /* SegundaPantallaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E1017927BD4EE60008D25D /* SegundaPantallaController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		38E1016D27BD4B040008D25D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38E1017027BD4B040008D25D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		38E1017227BD4B040008D25D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38E1017927BD4EE60008D25D /* SegundaPantallaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundaPantallaController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				38E1016D27BD4B040008D25D /* Assets.xcassets */,
 				38E1016F27BD4B040008D25D /* LaunchScreen.storyboard */,
 				38E1017227BD4B040008D25D /* Info.plist */,
+				38E1017927BD4EE60008D25D /* SegundaPantallaController.swift */,
 			);
 			path = EnvioParametros;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				38E1016927BD4B030008D25D /* ViewController.swift in Sources */,
 				38E1016527BD4B030008D25D /* AppDelegate.swift in Sources */,
+				38E1017A27BD4EE60008D25D /* SegundaPantallaController.swift in Sources */,
 				38E1016727BD4B030008D25D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
